@@ -4,7 +4,7 @@ PRIORITY	                     Low
 SEVERITY	                     Enhancement
 PLATFORM/ ENVIRONMENT                 Samsung Galaxy A53/ Android 13
 TESTER	                              Ewelina Tecza
-STEPS TO REPRODUCE	            1.  Launch the https://www.saucedemo.com/  
+STEPS TO REPRODUCE	              1.  Launch the https://www.saucedemo.com/  
                                    2. Click on 'Remember the password' button
 EXPECTED RESULT	                    User could click on the button and recive an email or sms message to remember old password or set the new one. 
-ACTUAL RESULT	                     The button doesn't exist.
+ACTUAL RESULT	                    The button doesn't exist.
