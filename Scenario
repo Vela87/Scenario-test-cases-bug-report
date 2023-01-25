@@ -1,9 +1,9 @@
-SCENARIO ID		NAME		TEST CASE ID	TEST CASE NAME
-TS_1			    Log in	TC1			      Log in with valid username and password
-					            TC2			      Log in with valid username and invalid password
-					            TC3			      Log in with invalid username and valid password
-					            TC4			      Log in with invalid username and invalid password
-					            TC5			      Log in without username, with valid password
-                      TC6			      Log in without password, with valid username
-                      TC7			      Log in without username and password
-                      TC8			      Use 'Remember the password'
+SCENARIO ID		NAME		TEST CASE ID			TEST CASE NAME
+TS_1			Log in		TC1			      Log in with valid username and password
+					TC2			      Log in with valid username and invalid password
+					TC3			      Log in with invalid username and valid password
+					TC4			      Log in with invalid username and invalid password
+					TC5			      Log in without username, with valid password
+                      			TC6			      Log in without password, with valid username
+                     			TC7			      Log in without username and password
+                     			TC8			      Use 'Remember the password'
